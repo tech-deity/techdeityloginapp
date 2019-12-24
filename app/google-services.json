@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "223387871478",
+    "firebase_url": "https://techdeityapp.firebaseio.com",
+    "project_id": "techdeityapp",
+    "storage_bucket": "techdeityapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223387871478:android:034849ce044660e8cae4d7",
+        "android_client_info": {
+          "package_name": "com.example.techdeityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223387871478-l6dacl2ep5d750bc9tnp5adv3625qfmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.techdeityapp",
+            "certificate_hash": "7428b83dd2a5b1cac07f797c9b3ecaf41565e11e"
+          }
+        },
+        {
+          "client_id": "223387871478-qqk7ue0i5kqoc99209vbu2dd5n5s021a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHy9akixDKBJdLHz5MxtNsqEj9DnYH2-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223387871478-qqk7ue0i5kqoc99209vbu2dd5n5s021a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
